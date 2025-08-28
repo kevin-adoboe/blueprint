@@ -86,3 +86,6 @@ import "./tree/treeTests";
 import "./hooks/useHotkeysTests";
 import "./hooks/useOverlayStackTests";
 import "./hooks/useValidatePropsTests";
+
+// flaky tests for CircleCI flaky test detection
+import "./flaky-tests";
